@@ -1,0 +1,26 @@
+body{
+  background-image: url(../images/chef.png);
+
+}
+
+div{
+  text-align: center;
+  text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black;
+  
+  color: white ;
+  font-size: 24px;
+}
+
+ul, 
+ol{
+  display: inline-block;
+  text-align: left;
+}
+
+img{
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(../images/border.png) 20 stretch;
+  width: 800px;
+  height: auto;
+}
